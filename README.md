@@ -1,6 +1,6 @@
 # Inventory-Management-System 
 
-The <h3><b>Inventory Management System</b></h3> is designed for companies to efficiently manage their stock and sales. It includes two modules:<br>  
+<b>Inventory Management System</b> is designed for companies to efficiently manage their stock and sales. It includes two modules:<br>  
 
 -Admin Module: Allows the company admin to manage products, track sales, and generate reports.<br>
 -User Module: Enables multiple users to log sales and check stock availability but restricts them from modifying products or accessing sales reports.<br>  
